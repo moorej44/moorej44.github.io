@@ -1,3 +1,7 @@
 
 # Transient session state; folded into CLAUDE.md on session end
 .claude/session-log.md
+
+# PHI boundary — never commit local data or generated outputs
+data/
+outputs/
